@@ -254,7 +254,8 @@ div:nth-child(2n) img{
 
 
 /* mobile view  */
-@media screen and (min-width: 300px) and (max-width:699px) {
+/* @media screen and (min-width: 300px) and (max-width:699px) { */
+@media screen and (min-width: 300px)  {
   .mainstuff{
     display: flex;
   }
@@ -619,7 +620,8 @@ div:nth-child(2n) img{
 }
  
 /* tablet view  */
-@media screen and (min-width: 700px) and (max-width:999px) {
+/* @media screen and (min-width: 700px) and (max-width:999px) { */
+@media screen and (min-width: 700px)  {
   .literature, .history, .dictionary{
     align-self: top;
   border: 2px solid #872F3B;
